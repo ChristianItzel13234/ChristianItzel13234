@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NUMERO DE CONTACTO: 56-14-00-33-24 </p>
+    <p>INSTITUTIONAL MAIL: calvarah001@alumno.uaemex.mx </p>
+    <p>DIRECCION: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
