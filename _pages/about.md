@@ -7,13 +7,13 @@ subtitle: <a href='#'> 💻Estudiante:Licenciatura en Ingenieria en Computaciòn
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Numero de Contacto: 5614003324 </p>
     <p>Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
     <p>Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
 
-news: true  # includes a list of news items
+social networks : true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
