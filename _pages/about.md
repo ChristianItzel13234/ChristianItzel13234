@@ -13,7 +13,8 @@ profile:
     <p>Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
     <p>Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
 
-social networks : true  # includes a list of news items
+Redes Sociales : true  
+image.png
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
