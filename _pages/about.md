@@ -10,14 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     
-    <p >Numero de Contacto: 5614003324 </p>
+    <p>Numero de Contacto: 5614003324 </p>
     <p>Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
     <p>Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
-    
+   
 ---
 
-![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: right; width: 200px; margin-left: 20px;"}
-
+![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: align:right; width: 200px; margin-left: 50px;"}
 
 
 
