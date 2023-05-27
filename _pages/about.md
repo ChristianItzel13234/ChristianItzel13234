@@ -9,16 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
+    
     <p>Numero de Contacto: 5614003324 </p>
     <p>Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
     <p>Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
 
-Redes Sociales : true  
-
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
+  ![Mi foto](/assets/prof_pic.jpg){: style="float: right; width: 200px; margin-left: 20px;"}
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
