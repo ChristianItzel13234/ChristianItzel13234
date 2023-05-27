@@ -6,7 +6,7 @@ subtitle: <a href='#'> 💻Estudiante:Licenciatura en Ingenieria en Computaciòn
 
 profile:
   align: right
-  image: itzel.jpg
+  
   image_circular: false # crops the image to make it circular
   address: >
     
@@ -16,7 +16,7 @@ profile:
 
 ---
 
-![Christian I alvara](/search-ms:displayname=Resultados%20de%20la%20búsqueda%20en%20ChristianItzel13234&crumb=location:C%3A%5CUsers%5Cchris%5COneDrive%5CDocumentos%5CChristianItzel13234%5CChristianItzel13234\assets/itzel.jpg){: style="float: right; width: 200px; margin-left: 50px;"}
+![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: right; width: 200px; margin-left: 50px;"}
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
