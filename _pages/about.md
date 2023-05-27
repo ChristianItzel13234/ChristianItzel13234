@@ -6,7 +6,7 @@ subtitle: <a href='#'> 💻Estudiante:Licenciatura en Ingenieria en Computaciòn
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: itzel.jpg
   image_circular: true # crops the image to make it circular
   address: >
     
@@ -15,7 +15,8 @@ profile:
     <p>Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
 
 ---
-  ![Mi foto](/assets/prof_pic.jpg){: style="float: right; width: 200px; margin-left: 20px;"}
+
+  ![Mi foto](/assets/itzel.jpg){: style="float: right; width: 200px; margin-left: 20px;"}
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
