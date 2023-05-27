@@ -8,7 +8,7 @@ profile:
   align: right
   
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
     <p style="text-align: left;">
     <p >Numero de Contacto: 5614003324 </p>
     <p>Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
