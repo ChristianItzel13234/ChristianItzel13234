@@ -17,7 +17,7 @@ profile:
    
 ---
 
-![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: left; width: 100px; margin-left: 200px;"}
+![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: left; width: 110px; margin-left: 30px;"}
 
 
 
