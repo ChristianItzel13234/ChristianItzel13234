@@ -28,14 +28,20 @@ Hola mi nombre es Christian Itzel Alvara Hidalgo, Soy estudiante de la Universid
 <br>
 ¿Donde quiero llegar acabando mis estudios? Deseo crear e implementar sistemas tecnologicos que ayuden a convertir casas inteligentes y modernas de una manera accesible para cualquier usuario.
 </div>
-<div style="float: left;"> 
-</div>
+
+
 <br>
+
+
+<div style="float: left;"> 
+<br>
+</div>
+
 
 ## Conocimiento y Habilidades
 
 Actualmente tengo conocimientos y habilidades en lenguajes de programacion como [C++](https://www.bloodshed.net/), [Java](https://www.java.com/es/), [Python](https://www.python.org/), [Visual Studio](https://code.visualstudio.com/) ,asi como conocimientos en sistemas operativos y redes informáticas, incluyendo instalación, configuración y mantenimiento de sistemas operativos y redes.
-
+<br>
 
 
 <br>
