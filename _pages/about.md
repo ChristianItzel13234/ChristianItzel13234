@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'> 💻Estudiante:Licenciatura en Ingenieria en Computaciòn 👩🏻‍💻</a>. UAEM VALLE DE MEXICO.
 
 profile:
-  align: center
+  align: left
   
   image_circular: false # crops the image to make it circular
   address: >
