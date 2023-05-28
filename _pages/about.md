@@ -5,11 +5,10 @@ permalink: /
 subtitle: <a href='#'> 💻Estudiante:Licenciatura en Ingenieria en Computaciòn 👩🏻‍💻</a>. UAEM VALLE DE MEXICO.
 
 profile:
-  align: right
+  align: center
   
   image_circular: false # crops the image to make it circular
   address: >
-  align:  left
     
     <p >Numero de Contacto: 5614003324 </p>
     <p >Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
