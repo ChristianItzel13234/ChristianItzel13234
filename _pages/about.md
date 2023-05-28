@@ -34,13 +34,15 @@ Hola mi nombre es Christian Itzel Alvara Hidalgo, Soy estudiante de la Universid
 Actualmente tengo conocimientos y habilidades en lenguajes de programacion como [C++](https://www.bloodshed.net/), [Java](https://www.java.com/es/), [Python](https://www.python.org/), [Visual Studio](https://code.visualstudio.com/) ,asi como conocimientos en sistemas operativos y redes informáticas, incluyendo instalación, configuración y mantenimiento de sistemas operativos y redes.
 </div>
 <br>
+<div style="float: left;"> 
+
 ## Resde Sociales
     
    - **Faceboo:**[Ytzel Alvara Hiidalgo](https://www.facebook.com/cristhianytzel.alvarahidalgo/) 
    - **GitHub:**[ChristianItzel13234](https://github.com/ChristianItzel13234)
    - **Instagram:**[Python](https://www.instagram.com/ytzel.a/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
    - **YouTube:**[@christianitzelalvarahidalg2200](https://www.youtube.com/channel/UCe_d9CTCKosPseeRA9VbQ9Q)
-
+</div>
 
 Cuando termine mi Ingeneria me gustaria trabajar de Desarrollador de software o de front-end. 
 
