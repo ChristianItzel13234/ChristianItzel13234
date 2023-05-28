@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     
-    <p style="float: left;">Numero de Contacto: 5614003324 </p>
+    <p style="float: left;"><div style="float: left;">Numero de Contacto: 5614003324 </div></p>
     <p >Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
     <p >Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
    
