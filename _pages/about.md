@@ -52,7 +52,6 @@ Hola mi nombre es Christian Itzel Alvara Hidalgo, Soy estudiante de la Universid
    - **GitHub:**[ChristianItzel13234](https://github.com/ChristianItzel13234)
    - **Instagram:**[Python](https://www.instagram.com/ytzel.a/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
    - **YouTube:**[@christianitzelalvarahidalg2200](https://www.youtube.com/channel/UCe_d9CTCKosPseeRA9VbQ9Q)
-
 <br>
 
 ## Conocimiento y Habilidades
