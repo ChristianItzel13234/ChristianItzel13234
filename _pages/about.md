@@ -12,11 +12,12 @@ profile:
     
     <p >Numero de Contacto: 5614003324 </p>
     <p >Correo Istitucional: calvarah001@alumno.uaemex.mx </p>
+    <p >Correo Personal: [christianitzel149@outlook.com](mailto:christianitzel149@outlook.com) </p>
     <p >Direccion: Calle Rio Gijalva LT.1 Mz.3, Prados De Ixtacala 1</p>
    
 ---
 
-![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: left; width: 100px; margin-left: 50px;"}
+![Christian I alvara](/ChristianItzel13234/assets/itzel.jpg){: style="float: left; width: 100px; margin-left: 100px;"}
 
 
 
