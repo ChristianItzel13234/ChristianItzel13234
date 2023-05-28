@@ -22,18 +22,21 @@ profile:
 
 <div style="float: left;"> 
 Hola mi nombre es Christian Itzel Alvara Hidalgo, Soy estudiante de la Universidad Autonoma del Estado de Mexico,Actualmente estoy cursando el 8tavo semestre de la carrera de Ing. en Computacion, mi punto de interes en el ambito profesional es la programacion orientada a objetos y el diseño de paginas web, Mis pasatiempos favoritos son  leeer y coleccionar Tomos, aprender sobre cocina Mexicana, ver KDramas,aprender sobre diferentes skincares y como usarlos.
-
+</div>
+<div style="float: left;"> 
 ¿Donde quiero llegar acabando mis estudios? Deseo crear e implementar sistemas tecnologicos que ayuden a convertir casas inteligentes y modernas de una manera accesible para cualquier usuario.
-
+</div>
+<div style="float: left;"> 
 Actualmente tengo conocimientos y habilidades en lenguajes de programacion como [C++](https://www.bloodshed.net/), [Java](https://www.java.com/es/), [Python](https://www.python.org/), [Visual Studio](https://code.visualstudio.com/) ,asi como conocimientos en sistemas operativos y redes informáticas, incluyendo instalación, configuración y mantenimiento de sistemas operativos y redes.
+</div>
 
 ## Resde Sociales
     
-   - **Faceboo:** [Ytzel Alvara Hiidalgo](https://www.facebook.com/cristhianytzel.alvarahidalgo/) 
-   - **GitHub:** [ChristianItzel13234](https://github.com/ChristianItzel13234)
-   - **Instagram:** [Python](https://www.instagram.com/ytzel.a/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
-   - **YouTube:** [@christianitzelalvarahidalg2200](https://www.youtube.com/channel/UCe_d9CTCKosPseeRA9VbQ9Q)
+   - **Faceboo:**[Ytzel Alvara Hiidalgo](https://www.facebook.com/cristhianytzel.alvarahidalgo/) 
+   - **GitHub:**[ChristianItzel13234](https://github.com/ChristianItzel13234)
+   - **Instagram:**[Python](https://www.instagram.com/ytzel.a/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
+   - **YouTube:**[@christianitzelalvarahidalg2200](https://www.youtube.com/channel/UCe_d9CTCKosPseeRA9VbQ9Q)
 
 
 Cuando termine mi Ingeneria me gustaria trabajar de Desarrollador de software o de front-end. 
-</div>
+
